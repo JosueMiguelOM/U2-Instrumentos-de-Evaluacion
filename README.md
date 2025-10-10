@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Módulo 1: Fundamentos de Unity 3D
+## 🚀 Actividad 1A: Ejecución de tutoriales
 
 ### 📚 Tutoriales del Curso "Create with Code"
 
@@ -24,9 +24,9 @@
 | Lección 5 | **Interfaz de Usuario** | Canvas, menús de juego, HUD, sistema de vidas | [📁 Drive]() |
 ---
 
-## 💻 Módulo 2: Ejercicios de Implementación
+## 💻 Actividad 2: Videojuego
 
-### 🏆 Prácticas de Desarrollo - Saber Hacer
+### 🏆 Actividad 3 Ejercicios Prácticos Saber
 
 | Práctica | Tema Específico | Descripción | Enlace de Entrega |
 |----------|-----------------|-------------|-------------------|
@@ -35,11 +35,6 @@
 | **03** | [Nombre del ejercicio 3] | [Breve descripción del objetivo] | [📎 Archivo]() |
 | **04** | [Nombre del ejercicio 4] | [Breve descripción del objetivo] | [📎 Archivo]() |
 | **05** | [Nombre del ejercicio 5] | [Breve descripción del objetivo] | [📎 Archivo]() |
-| **06** | [Nombre del ejercicio 6] | [Breve descripción del objetivo] | [📎 Archivo]() |
-| **07** | [Nombre del ejercicio 7] | [Breve descripción del objetivo] | [📎 Archivo]() |
-| **EP08** | [Nombre del ejercicio 8] | [Breve descripción del objetivo] | [📎 Archivo]() |
-| **EP09** | [Nombre del ejercicio 9] | [Breve descripción del objetivo] | [📎 Archivo]() |
-| **EP10** | [Nombre del ejercicio 10] | [Breve descripción del objetivo] | [📎 Archivo]() |
 
 ---
 
