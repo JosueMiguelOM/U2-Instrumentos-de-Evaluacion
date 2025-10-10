@@ -16,7 +16,7 @@
 ### 📚 Tutoriales del Curso "Create with Code"
 
 | Lección | Módulo de Aprendizaje | Descripción Técnica | Enlace de Evidencia |
-|---|------------------------|---------------------|-----------------------------------------|
+|-------|------------------------|---------------------|-----------------------------------------|
 | Lección 1 | **Control del Jugador** | Sistema de movimiento, físicas Rigidbody, input management | https://docs.google.com/document/d/1mLnzSJr-78TKajv0eGZ-b-5kuPGJYYOZ/edit?usp=drive_link&ouid=113413271299809185260&rtpof=true&sd=true |
 | Lección 2 | **Jugabilidad Básica** | Maniobra al jugador para mantener vivo el juego | [📁 Drive]() |
 | Lección 3 | **Sistema de Audio** | Efectos de sonido, música ambiental, audio mixers | [📁 Drive]() |
@@ -30,7 +30,7 @@
 
 | Práctica | Tema Específico | Descripción | Enlace de Entrega |
 |----------|-----------------|-------------|-------------------|
-| **01** | Ejercicio Práctico 1 | Construir un mundo con un Asset de tu preferencia Animarlo a través del vídeo Mixamo| [ https://drive.google.com/file/d/1WRhGRpW-awsbgXvOFwboCONnVhDhimc9/view?usp=drive_link |
+| **01** | Ejercicio Práctico 1 | Construir un mundo con un Asset de tu preferencia Animarlo a través del vídeo Mixamo| https://drive.google.com/file/d/1WRhGRpW-awsbgXvOFwboCONnVhDhimc9/view?usp=drive_link |
 | **02** | [Nombre del ejercicio 2] | [Breve descripción del objetivo] | [📎 Archivo]() |
 | **03** | [Nombre del ejercicio 3] | [Breve descripción del objetivo] | [📎 Archivo]() |
 | **04** | [Nombre del ejercicio 4] | [Breve descripción del objetivo] | [📎 Archivo]() |
