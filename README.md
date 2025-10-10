@@ -30,8 +30,7 @@
 
 | Práctica | Tema Específico | Descripción | Enlace de Entrega |
 |----------|-----------------|-------------|-------------------|
-| **01** | Ejercicio Práctico 1 | Construir un mundo con un Asset de tu preferencia
-Animarlo a través del vídeo Mixamo| [ https://drive.google.com/file/d/1WRhGRpW-awsbgXvOFwboCONnVhDhimc9/view?usp=drive_link |
+| **01** | Ejercicio Práctico 1 | Construir un mundo con un Asset de tu preferencia Animarlo a través del vídeo Mixamo| [ https://drive.google.com/file/d/1WRhGRpW-awsbgXvOFwboCONnVhDhimc9/view?usp=drive_link |
 | **02** | [Nombre del ejercicio 2] | [Breve descripción del objetivo] | [📎 Archivo]() |
 | **03** | [Nombre del ejercicio 3] | [Breve descripción del objetivo] | [📎 Archivo]() |
 | **04** | [Nombre del ejercicio 4] | [Breve descripción del objetivo] | [📎 Archivo]() |
