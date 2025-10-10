@@ -24,8 +24,6 @@
 | Lección 5 | **Interfaz de Usuario** | Canvas, menús de juego, HUD, sistema de vidas | [📁 Drive]() |
 ---
 
-## 💻 Actividad 2: Videojuego
-
 ### 🏆 Actividad 3 Ejercicios Prácticos Saber
 
 | Práctica | Tema Específico | Descripción | Enlace de Entrega |
