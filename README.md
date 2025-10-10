@@ -16,7 +16,7 @@
 ### 📚 Tutoriales del Curso "Create with Code"
 
 | Lección | Módulo de Aprendizaje | Descripción Técnica | Enlace de Evidencia |
-|---|------------------------|---------------------|---------------------|
+|---|------------------------|---------------------|-----------------------------------------|
 | Lección 1 | **Control del Jugador** | Sistema de movimiento, físicas Rigidbody, input management | https://docs.google.com/document/d/1mLnzSJr-78TKajv0eGZ-b-5kuPGJYYOZ/edit?usp=drive_link&ouid=113413271299809185260&rtpof=true&sd=true |
 | Lección 2 | **Jugabilidad Básica** | Maniobra al jugador para mantener vivo el juego | [📁 Drive]() |
 | Lección 3 | **Sistema de Audio** | Efectos de sonido, música ambiental, audio mixers | [📁 Drive]() |
